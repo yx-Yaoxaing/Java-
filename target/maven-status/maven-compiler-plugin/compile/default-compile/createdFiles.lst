@@ -1,0 +1,10 @@
+Controller\UserController.class
+factoryinterface\BeanFactory.class
+ioc\AnnotationConfigApplicationContext.class
+annotation\Component.class
+annotation\Controller.class
+config\ComponentScanController.class
+getFileBeanFactory.class
+annotation\Service.class
+Controller\main.class
+annotation\ComponentScan.class
